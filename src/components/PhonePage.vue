@@ -9,7 +9,7 @@
     <div>
       名前：ホリウチ  トモキ<br>
       生年月日：1993/04/15<br>
-      出身：埼玉県深谷市<br>
+      出身：埼玉県<br>
       趣味：ギター、DTM、お酒、盆栽<br>
       資格：Java Silver SE 8, AWS Cloud Practitioner
     </div>
