@@ -1,24 +1,31 @@
-# portfolio
+# dotchat -ポートフォリオサイト-
 
-## Project setup
-```
-npm install
-```
+就活用のポートフォリオサイトです。  
+レスポンシブ対応
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## セットアップ
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1: Node.js、VueCLIをインストール  
+2: VueCLIのUI上でプロジェクトを新規作成し、下記のプリセットを選択  
+【プリセット：Babel、eslint】  
+  
+以上
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 使用ツール
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+フロント：Vue.js（VueCLI）    
+
+## デモページ
+
+http://syukatsu0415.com/
+
+## ライセンス
+
+This sample code is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+## その他
+
+フォント、アイコンは以下のサイトからお借りしています。  
+・GoogleFonts (https://fonts.google.com/)  
+・DEVICON (https://devicon.dev/)  
+・851マカポップ (http://pm85122.onamae.jp/851mkpop.html)  
