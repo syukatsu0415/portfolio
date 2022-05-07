@@ -15,7 +15,6 @@
         <br>
         使用ツール<br>
         フロント：Vue.js（VueCLI）<br>
-        バック：Node.js（express）<br>
         インフラ：AWS（S3,Route53）<br>
         <br>製作期間：3日
       </div>
